@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Samsung S20+",
-      "price": 4.000
+      "price": 4.054
     },
     {
       "id": 2,
       "name": "MacBook Pro",
-      "price": 13.000
+      "price": 13.226
     },
     {
       "id": 3,
       "name": "Cadeira Gamer",
-      "price": 3.002
+      "price": 3.052
     }
   ]
 }
