@@ -1,0 +1,19 @@
+{ 
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S20+",
+      "price": 4.000
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro",
+      "price": 13.000
+    },
+    {
+      "id": 3,
+      "name": "Cadeira Gamer",
+      "price": 3.002
+    }
+  ]
+}
