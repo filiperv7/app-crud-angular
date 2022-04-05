@@ -1,4 +1,4 @@
-{ 
+{
   "products": [
     {
       "id": 1,
@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Cadeira Gamer",
       "price": 3.052
+    },
+    {
+      "id": 4,
+      "name": "Mesa Ergonomica",
+      "price": "1846.24"
     }
   ]
 }
